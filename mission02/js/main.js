@@ -31,3 +31,4 @@ if (user.id === emailUser) {
 } else {
   console.log("아니다");
 }
+const logInButton = document.querySelector(".btn-login");
